@@ -1,2 +1,2 @@
 # PYCourse
-My projects with Codezilla course
+These projects with Codezilla course
