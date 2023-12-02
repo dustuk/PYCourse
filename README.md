@@ -1,4 +1,4 @@
 # PYCourse
-These projects with Codezilla course
+This my projects with Codezilla course
 
-<h1>These my first repo</h1>
+<h1>This my first repo</h1>
