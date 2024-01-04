@@ -34,15 +34,12 @@ if project_number == "2":
 
 if project_number == "3":
     numbers = [953, 776, 532, 665, 973, 683, 484, 499, 741, 980]
-    multiple = 7
-
-    while True:
-        multiple += 7
-
-        if multiple in numbers:
+    i = 0
+    while i < len(numbers):
+        if numbers[i] % 7 == 0:
+            print(f"The first multiple of 7 is: {numbers[i]}")
             break
-
-    print(multiple)
+        i += 1
 
 
 if project_number == "4":
