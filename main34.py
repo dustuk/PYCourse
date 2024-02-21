@@ -21,7 +21,7 @@ if project_num == 2:
 if project_num == 3:
     #Make list with 100 random numbers between 100
     #and 10,000 that are divisible by 3 and 5.
-    nums  = [random.randint(100, 10000) for num in range(100) if i % 3 == 0 and i % 5 == 0]
+    nums  = [random.randint(100, 10000) for num in range(100) if num % 3 == 0 and num % 5 == 0]
     print(nums)
 
 
