@@ -83,8 +83,8 @@ if project_num == 3:
                     print(f"Phone Number: {i[1]}")
                     print(f"Email Address: {i[2]}")
                     break
-            else:
-                print("Contact not found.")
+                else:
+                    print("Contact not found.")
         
         if choice == 4:
             break
