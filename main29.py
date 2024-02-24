@@ -72,8 +72,8 @@ if project_num == 3:
                     i[1] = input("Enter new phone number: ")
                     i[2] = input("Enter new email address: ")
                     print("Contact updated successfully.")
-            else:
-               print("Contact not found.")
+            if not name in i:
+                print("Contact not found.")
         
         if choice == 3:
             name = input("Enter the name of the contact you want to search for: ")
@@ -83,8 +83,8 @@ if project_num == 3:
                     print(f"Phone Number: {i[1]}")
                     print(f"Email Address: {i[2]}")
                     break
-                else:
-                    print("Contact not found.")
+            if not name in i:
+                print("Contact not found.")
         
         if choice == 4:
             break
