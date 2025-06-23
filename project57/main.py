@@ -1,5 +1,7 @@
 #Task Manager
 
+import datetime
+
 tasks = []
 
 def main(tasks):
@@ -32,18 +34,24 @@ def add_task(tasks):
     # get task from user
     task = input("Enter task: ")
     
+    date = input("Enter task date (yyyy-mm-dd): ")
+    
+    try:
+        date = datetime.datetime.strptime(date, "%Y-%m-%d")    
+    except:
+        print("Invalid date format, please enter a date in the format yyyy-mm-dd")
+        return  
+    
     # check if task is empty
     if task == "":
         print("Task cannot be empty")
-        return
-    elif float(task):
-        print("Task cannot be a number")
         return
     
     # define task status
     task_info = {
         "task": task,
-        "completed": False
+        "completed": False,
+        "date": date
     }
     
     # add task to tasks list if not already in the list
@@ -84,10 +92,15 @@ def view_tasks(tasks):
         print("No tasks to view")
         return
     
+
+    for i in tasks:
+        if not isinstance(i["date"], datetime.datetime):
+            i["date"] = datetime.datetime.strptime(i["date"], "%Y-%m-%d")
+    
     print(f"Tasks:\n{'-' * 40}")
     for i, task in enumerate(tasks, 1):
         status = "✓" if task["completed"] else "✕"
-        print(f"{i}. {task['task']} {status}")
+        print(f"{i}. {task['task']} ({task['date'].strftime('%Y-%m-%d')}) {status}")
     print("-" * 40)
 
 
