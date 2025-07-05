@@ -1,0 +1,184 @@
+Name: Hamada Codezilla
+Email: hamada_codezilla35@gmail.com
+Phone: 01743507569
+Address: 456 Nile St, Giza, Egypt
+DOB: 28/02/1985
+
+
+Hamada Codezilla is a software engineer with over 10 years of experience in the industry. He is skilled in web development, databases, and programming languages such as Python and JavaScript. He has worked for a variety of companies, from small startups to large corporations.
+
+Hamada can be reached at hamada_codezilla35@gmail.com or by phone at 01743507569. His address is 456 Nile St, Giza, Egypt. He was born on February 28, 1985.
+
+In his free time, Hamada enjoys playing Ping-Pong, reading tech blogs, and spending time with his family.
+
+
+###
+
+Name: Ahmed Mahmoud
+Email: ahmed.mahmoud.dev@gmail.com
+Phone: 01234567890
+Address: 123 Code Street, Cairo, Egypt
+DOB: 15/07/1990
+
+Ahmed Mahmoud is a software engineer with over 9 years of experience in the industry. He specializes in web development and is proficient in programming languages such as Python, JavaScript, and PHP. Ahmed has worked on various projects ranging from e-commerce websites to mobile applications.
+
+You can reach Ahmed at ahmed.mahmoud.dev@gmail.com or by phone at 01234567890. His address is 123 Code Street, Cairo, Egypt. He was born on July 15, 1990.
+
+In his free time, Ahmed enjoys exploring new technologies, attending tech conferences, and contributing to open-source projects.
+
+
+###
+
+Name: Fatima Ahmed
+Email: fatima.ahmed.dev@yahoo.com
+Phone: 01123456789
+Address: 456 Script Avenue, Dubai, UAE
+DOB: 10/03/1988
+
+Fatima Ahmed is a dedicated software developer with 6 years of experience with a passion for building innovative solutions. With a strong background in front-end development and UI/UX design, she brings creativity and attention to detail to her work. Fatima is experienced in HTML, CSS, JavaScript, and React.
+
+You can reach Fatima at fatima.ahmed.dev@yahoo.com or by phone at 01123456789. Her address is 456 Script Avenue, Dubai, UAE. She was born on March 10, 1988.
+
+In her free time, Fatima enjoys sketching, and traveling to explore new cultures.
+
+###
+
+Name: Omar Khalid
+Email: omar.khalid.dev@hotmail.com
+Phone: 01987654321
+Address: 789 Code Lane, Riyadh, Saudi Arabia
+DOB: 22/09/1986
+
+Omar Khalid is a skilled software engineer with 12 years of experience with expertise in backend development and database management. He is proficient in programming languages such as Java, C#, and SQL. Omar has worked on large-scale enterprise systems and is experienced in designing and implementing robust and scalable solutions.
+
+You can reach Omar at omar.khalid.dev@hotmail.com or by phone at 01987654321. His address is 789 Code Lane, Riyadh, Saudi Arabia. He was born on September 22, 1986.
+
+In his free time, Omar enjoys playing video games, solving coding challenges, and mentoring aspiring developers.
+
+
+###
+
+
+Name: Aisha Hassan
+Email: aisha.hassan.dev@gmail.com
+Phone: 01543218765
+Address: 987 Algorithm Street, Tunis, Tunisia
+DOB: 05/12/1992
+
+Aisha Hassan is a talented software engineer with 1 year of experience with a passion for problem-solving and algorithm design. She excels in data structures and algorithms and has a strong background in backend development. Aisha is proficient in languages such as Java, Python, and C++.
+
+You can reach Aisha at aisha.hassan.dev@gmail.com or by phone at 01543218765. Her address is 987 Algorithm Street, Tunis, Tunisia. She was born on December 5, 1992.
+
+In her free time, Aisha enjoys participating in coding competitions, attending tech meetups, and exploring new coding techniques.
+
+###
+
+Name: Ali Kareem
+Email: ali.kareem.dev@yahoo.com
+Phone: 01432187654
+Address: 753 Array Avenue, Beirut, Lebanon
+DOB: 18/06/1990
+
+Ali Kareem is a skilled software developer with 3 years of experience specializing in full-stack web development. He has a strong command of HTML, CSS, JavaScript, and frameworks such as React and Node.js. Ali has a keen eye for detail and is passionate about creating user-friendly and visually appealing applications.
+
+You can reach Ali at ali.kareem.dev@yahoo.com or by phone at 01432187654. His address is 753 Array Avenue, Beirut, Lebanon. He was born on June 18, 1990.
+
+In his free time, Ali enjoys attending tech conferences to expand his knowledge.
+
+###
+
+Name: Layla Mahmoud
+Email: layla.mahmoud.dev@hotmail.com
+Phone: 01324567980
+Address: 369 Java Street, Alexandria, Egypt
+DOB: 12/09/1987
+
+Layla Mahmoud is a dedicated software engineer with 5 years of experience with a strong focus on mobile app development. She has expertise in iOS and Android platforms and is proficient in programming languages such as Swift and Kotlin. Layla has contributed to the development of several successful mobile applications.
+
+You can reach Layla at layla.mahmoud.dev@hotmail.com or by phone at 01324567980. Her address is 369 Java Street, Alexandria, Egypt. She was born on September 12, 1987.
+
+In her free time, Layla enjoys hiking, and experimenting with new mobile app ideas.
+
+###
+
+Name: Hassan Ali
+Email: hassan.ali.dev@gmail.com
+Phone: 01678901234
+Address: 321 Function Avenue, Casablanca, Morocco
+DOB: 07/11/1993
+
+Hassan Ali is a passionate software engineer with 9 years of experience specializing in machine learning and artificial intelligence. He has experience in developing intelligent systems and applying data science techniques to solve complex problems. Hassan is skilled in programming languages such as Python, R, and MATLAB.
+
+You can reach Hassan at hassan.ali.dev@gmail.com or by phone at 01678901234. His address is 321 Function Avenue, Casablanca, Morocco. He was born on November 7, 1993.
+
+In his free time, Hassan enjoys playing chess, exploring new algorithms, and keeping up with the latest advancements in AI.
+
+###
+
+Name: Nada Ahmed
+Email: nada.ahmed.dev@yahoo.com
+Phone: 01789012345
+Address: 654 Algorithm Lane, Tunis, Tunisia
+DOB: 14/05/1991
+
+Nada Ahmed is a skilled software developer with 7 years of experience with expertise in front-end development and user interface design. She has a strong command of HTML, CSS, and JavaScript frameworks such as Angular and Vue.js. Nada is passionate about creating intuitive and visually appealing user experiences.
+
+You can reach Nada at nada.ahmed.dev@yahoo.com or by phone at 01789012345. Her address is 654 Algorithm Lane, Tunis, Tunisia. She was born on May 14, 1991.
+
+In her free time, Nada enjoys painting, and attending design workshops to enhance her creativity.
+
+###
+
+Name: Karim Mansour
+Email: karim.mansour.dev@hotmail.com
+Phone: 01567890123
+Address: 987 Code Street, Riyadh, Saudi Arabia
+DOB: 25/03/1989
+
+Karim Mansour is a seasoned software engineer with 6 years of experience with a focus on backend development and cloud technologies. He has expertise in building scalable and secure applications using frameworks such as Node.js and Spring Boot. Karim is passionate about optimizing performance and ensuring high-quality code.
+
+You can reach Karim at karim.mansour.dev@hotmail.com or by phone at 01567890123. His address is 987 Code Street, Riyadh, Saudi Arabia. He was born on March 25, 1989.
+
+In his free time, Karim enjoys playing football, exploring new programming languages, and contributing to open-source projects.
+
+###
+
+Name: Rania Abbas
+Email: rania.abbas.dev@gmail.com
+Phone: 01234567890
+Address: 123 JavaScript Street, Amman, Jordan
+DOB: 10/09/1992
+
+Rania Abbas is a talented software engineer with 3 years of experience with a strong background in front-end development. She is skilled in HTML, CSS, and JavaScript, and has experience working with popular frameworks such as React and Angular. Rania is passionate about creating engaging user interfaces and responsive web applications.
+
+You can reach Rania at rania.abbas.dev@gmail.com or by phone at 01234567890. Her address is 123 JavaScript Street, Amman, Jordan. She was born on September 10, 1992.
+
+In her free time, Rania enjoys attending tech meetups, volunteering for coding workshops, and exploring new design trends.
+
+###
+
+Name: Youssef Mahmoud
+Email: youssef.mahmoud.dev@yahoo.com
+Phone: 01123456789
+Address: 456 Algorithm Avenue, Cairo, Egypt
+DOB: 18/04/1990
+
+Youssef Mahmoud is a dedicated software developer with 8 years of experience with expertise in back-end development and database management. He is proficient in programming languages such as Java, Python, and SQL. Youssef has a strong understanding of system architecture and enjoys solving complex problems.
+
+You can reach Youssef at youssef.mahmoud.dev@yahoo.com or by phone at 01123456789. His address is 456 Algorithm Avenue, Cairo, Egypt. He was born on April 18, 1990.
+
+In his free time, Youssef enjoys playing football, reading technology books, and contributing to open-source projects.
+
+###
+
+Name: Salma Hassan
+Email: salma.hassan.dev@hotmail.com
+Phone: 01987654321
+Address: 789 Code Lane, Dubai, UAE
+DOB: 05/07/1991
+
+Salma Hassan is a skilled software engineer with 10 years of experience with expertise in full-stack web development. She is proficient in languages such as JavaScript, Python, and PHP, and has experience working with frameworks like Node.js and Django. Salma enjoys creating dynamic and interactive web applications.
+
+You can reach Salma at salma.hassan.dev@hotmail.com or by phone at 01987654321. Her address is 789 Code Lane, Dubai, UAE. She was born on July 5, 1991.
+
+In her free time, Salma enjoys exploring new programming languages, and contributing to tech communities.
